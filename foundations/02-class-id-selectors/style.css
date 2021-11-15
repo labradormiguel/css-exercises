@@ -1,0 +1,16 @@
+.rojo{
+    background-color: rgba(255, 0, 0, 0.2);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#azul{
+    color: blue;
+    font-size: 36px;
+}
+p.tercero{
+    font-size: 24px;
+}
+#verde{
+    background-color: rgba(0, 255, 0, 0.2);
+    font-size: 24px;
+    font-weight: bold;
+}
