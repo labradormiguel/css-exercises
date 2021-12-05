@@ -20,4 +20,4 @@ As with the last example, this one needs to be flexible in the middle, with item
 - There is 16px between each item on both sides of the header. ✔️
 - flex is used to arrange everything. ✔️
 
-### Me tocó mirar en la solución porque no sabía que en este ejercicio se me permitía editar el HTML para añadir los dos nuevos contenedores
+### Me tocó mirar en la solución porque me salté la parte en la que decía que en este ejercicio se me permitía editar el HTML para añadir los dos nuevos contenedores
